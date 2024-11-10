@@ -75,7 +75,7 @@ class LinkedList {
 
 
 
-public class Demo {
+public class SinglyLinkedListDemo {
     public static void main(String[] args) {
         LinkedList ll = new LinkedList();
         ll.append(1);
